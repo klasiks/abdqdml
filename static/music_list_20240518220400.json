@@ -1,0 +1,50 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "c651ec3076e5e3ffea3ba0b4acb8322d",
+                "name": "Abdulqadir Damolla1",
+                "artist": "",
+                "album": "",
+                "url": "static/Abdulqadir Damolla/Abdulqadir Damolla1.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "c651ec3076e5e3ffea3ba0b4acb8322d",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "9b31f0f4c58ffba51a37c149b6a115c1",
+                "name": "Abdulqadir Damolla2",
+                "artist": "",
+                "album": "",
+                "url": "static/Abdulqadir Damolla/Abdulqadir Damolla2.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "9b31f0f4c58ffba51a37c149b6a115c1",
+                "pic_id": "",
+                "lyric_id": ""
+            },
+            {
+                "id": "f2fa64a94987d53598e93c844ec9ad66",
+                "name": "Abdulqadir Damolla3",
+                "artist": "",
+                "album": "",
+                "url": "static/Abdulqadir Damolla/Abdulqadir Damolla3.mp3",
+                "pic": "",
+                "lyric": "",
+                "source": "local",
+                "url_id": "f2fa64a94987d53598e93c844ec9ad66",
+                "pic_id": "",
+                "lyric_id": ""
+            }
+        ]
+    }
+]
